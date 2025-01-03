@@ -862,7 +862,7 @@ require('lazy').setup({
         -- Optional: choose a specific flavor
         -- Options are: mocha, macchiato, frappe, latte
         require("catppuccin").setup({
-            flavour = "mocha" -- Choose your preferred flavor
+            flavour = "latte" -- Choose your preferred flavor
         })
     end,
 },
